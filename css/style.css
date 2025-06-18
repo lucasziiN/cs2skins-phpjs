@@ -1,0 +1,178 @@
+html, body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #232728;
+}
+
+
+
+
+.catalog-container {
+    padding: 30px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    background-color: #2B2F30;
+    color: #EFECF0;
+    
+}
+
+
+/* Flex container to display items side by side */
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: center;    /* Center the skins horizontally within the container */
+}
+
+/* Flex container to display items side by side */
+.detail-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center the content horizontally */
+    
+}
+
+/* Container for the entire skin detail */
+.skin-detail {
+    display: flex;            /* Flexbox to align items side by side */
+    border: 2px solid #1D2021; 
+    padding: 20px;
+    background-color: #2B2F30;
+    margin: 20px 0;
+    max-width: 800px;         /* Limit width to control layout */
+}
+
+.skin-detail img{
+    max-width: 70%;
+}
+
+/* Skin image */
+.skin-image img {
+    max-width: 100%;          /* Ensure the image doesn't exceed its container */
+    height: auto;
+    max-height: 200px;        /* Limit the height of the image */
+    margin-right: 20px;       /* Space between the image and the details */
+}
+
+/* Skin info */
+.skin-info {
+    display: flex;
+    flex-direction: column;   /* Stack the info vertically */
+    justify-content: center;  /* Align vertically centered */
+    color: #EFECF0;
+}
+
+
+
+.skin-info h3, .skin-info p {
+    margin: 5px 0;
+    font-size: 1rem;
+}
+
+.skin-info .price {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #F0D700;           /* Highlight the price */
+}
+
+.skin-info .rarity {
+    font-style: italic;
+    color: #AAA;              /* Rarity in a lighter color */
+}
+
+/* Flex item for each skin */
+.skin-item {
+    border: 2px solid #1D2021; 
+    background-color: #333;
+    padding: 20px;
+
+    width: 200px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+.skin-item img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.skin-item h2 a {
+    color: #EFECF0;
+    text-decoration: none;
+}
+
+.skin-item h3 {
+    font-weight:normal;
+    font-size:medium;
+}
+
+.skin-item h2 a:hover {
+    text-decoration: underline;
+}
+
+.skin-item p {
+    color: #EFECF0;
+    margin: 5px 0;
+}
+
+.select-container{
+    display: flex;
+    align-items: center; /* Aligns label and select vertically */
+    justify-content: flex-end; /* Align to the right side */
+    margin-right: 10%; /* Move the entire container to the right */
+    margin-bottom: 20px;
+}
+
+/* Basic styling for the select (dropdown) elements */
+select {
+    font-size: 1em; /* Standard readable font size */
+    border: 1px solid #2B2F30; /* Simple dark blue border */
+    border-radius: 5px; /* Slightly rounded corners */
+    background-color: #2B2F30; /* Dark background */
+    color: #EFECF0; /* Light text color */
+    
+}
+
+.select-container label {
+    margin-right: 10px; /* Adds space between label and dropdown */
+}
+
+/* Focus state for the select elements */
+select:focus {
+    color: red;
+    outline: none; /* Remove the outline */
+}
+
+.title {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 3em;
+    color: #F0D700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Styles for the Return to Catalog button */
+.return-button {
+    display: inline-block;
+    background-color: #2B2F30;
+    padding: 10px 20px;
+    color: #EFECF0;            /* Button text color */
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.2em;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+}
+
+/* Hover effect for the Return to Catalog button */
+.return-button:hover {
+    color: red;
+}

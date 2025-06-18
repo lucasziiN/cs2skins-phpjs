@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cs2skins>
+    <skin>
+        <name>Dragon Lore</name>
+        <weapon>AWP</weapon>
+        <rarity>Covert</rarity>
+        <price currency="USD">1600</price>
+        <image>images/awp_dragon_lore.png</image>
+    </skin>
+    <skin>
+        <name>Fire Serpent</name>
+        <weapon>AK-47</weapon>
+        <rarity>Covert</rarity>
+        <price currency="USD">1300</price>
+        <image>images/ak_fire_serpent.png</image>
+    </skin>
+    <skin>
+        <name>Howl</name>
+        <weapon>M4A4</weapon>
+        <rarity>Contraband</rarity>
+        <price currency="USD">2000</price>
+        <image>images/m4a4_howl.png</image>
+    </skin>
+    <skin>
+        <name>Blaze</name>
+        <weapon>Desert Eagle</weapon>
+        <rarity>Restricted</rarity>
+        <price currency="USD">900</price>
+        <image>images/deagle_blaze.png</image>
+    </skin>
+    <skin>
+        <name>Slaughter</name>
+        <weapon>M9 Bayonet</weapon>
+        <rarity>Covert</rarity>
+        <price currency="USD">1200</price>
+        <image>images/m9_slaughter.png</image>
+    </skin>
+    <skin>
+        <name>Slaughter</name>
+        <weapon>Karambit</weapon>
+        <rarity>Covert</rarity>
+        <price currency="USD">1800</price>
+        <image>images/karambit_slaughter.png</image>
+    </skin>
+    <skin>
+        <name>Marble Fade</name>
+        <weapon>Butterfly Knife</weapon>
+        <rarity>Covert</rarity>
+        <price currency="USD">1700</price>
+        <image>images/butterfly_marble_fade.png</image>
+    </skin>
+    <skin>
+        <name>Hot Rod</name>
+        <weapon>M4A1-S</weapon>
+        <rarity>Classified</rarity>
+        <price currency="USD">800</price>
+        <image>images/m4a1_hot_rod.png</image>
+    </skin>
+    <skin>
+        <name>Karambit Lore</name>
+        <weapon>Karambit</weapon>
+        <rarity>Covert</rarity>
+        <price currency="USD">2000</price>
+        <image>images/karambit_lore.png</image>
+    </skin>
+    <skin>
+        <name>Redline</name>
+        <weapon>AK-47</weapon>
+        <rarity>Classified</rarity>
+        <price currency="USD">400</price>
+        <image>images/ak_redline.png</image>
+    </skin>
+    <skin>
+        <name>Asiimov</name>
+        <weapon>AWP</weapon>
+        <rarity>Covert</rarity>
+        <price currency="USD">800</price>
+        <image>images/awp_asiimov.png</image>
+    </skin>
+    <skin>
+        <name>Chromatic Aberration</name>
+        <weapon>AWP</weapon>
+        <rarity>Covert</rarity>
+        <price currency="USD">1800</price>
+        <image>images/awp_chromatic_aberration.png</image>
+    </skin>
+    <skin>
+        <name>Slingshot Gloves</name>
+        <weapon>Gloves</weapon>
+        <rarity>Extraordinary</rarity>
+        <price currency="USD">1200</price>
+        <image>images/slingshot_gloves.png</image>
+    </skin>
+    <skin>
+        <name>Crimson Kimono Gloves</name>
+        <weapon>Gloves</weapon>
+        <rarity>Extraordinary</rarity>
+        <price currency="USD">1500</price>
+        <image>images/crimson_kimono_gloves.png</image>
+    </skin>
+    <skin>
+        <name>King Dragon</name>
+        <weapon>M4A4</weapon>
+        <rarity>Classified</rarity>
+        <price currency="USD">600</price>
+        <image>images/m4a4_dragon_king.png</image>
+    </skin>
+    <skin>
+        <name>Water Elemental</name>
+        <weapon>Glock-18</weapon>
+        <rarity>Classified</rarity>
+        <price currency="USD">300</price>
+        <image>images/glock_water_elemental.png</image>
+    </skin>
+    <skin>
+        <name>Kill Confirmed</name>
+        <weapon>USP-S</weapon>
+        <rarity>Covert</rarity>
+        <price currency="USD">400</price>
+        <image>images/usp_kill_confirmed.png</image>
+    </skin>
+    <skin>
+        <name>Chantico's Fire</name>
+        <weapon>M4A1-S</weapon>
+        <rarity>Covert</rarity>
+        <price currency="USD">700</price>
+        <image>images/m4a1_chanticos_fire.png</image>
+    </skin>
+    <skin>
+        <name>Asiimov</name>
+        <weapon>M4A4</weapon>
+        <rarity>Covert</rarity>
+        <price currency="USD">900</price>
+        <image>images/m4a4_asiimov.png</image>
+    </skin>
+    <skin>
+        <name>Hyper Beast</name>
+        <weapon>AWP</weapon>
+        <rarity>Covert</rarity>
+        <price currency="USD">1000</price>
+        <image>images/awp_hyperbeast.png</image>
+    </skin>
+    <skin>
+        <name>Corinthian</name>
+        <weapon>Desert Eagle</weapon>
+        <rarity>Mil-Spec</rarity>
+        <price currency="USD">5</price>
+        <image>images/deagle_corinthian.png</image>
+    </skin>
+</cs2skins>
+
+
